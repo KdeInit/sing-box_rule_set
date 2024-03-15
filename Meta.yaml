@@ -1,0 +1,9 @@
+payload:
+- DOMAIN-KEYWORD,facebook
+- DOMAIN-KEYWORD,instagram
+- DOMAIN-KEYWORD,whatsapp
+- DOMAIN-KEYWORD,fbcdn
+- DOMAIN-SUFFIX,fb.com
+- DOMAIN-SUFFIX,fb.me
+- DOMAIN-SUFFIX,fbcdn.net
+- DOMAIN-SUFFIX,instagr.am

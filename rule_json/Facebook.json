@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "facebook.com",
+        "fb.com",
+        "fb.me",
+        "fbcdn.com",
+        "fbcdn.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "facebook",
+        "fbcdn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".facebook.com",
+        ".fb.com",
+        ".fb.me",
+        ".fbcdn.com",
+        ".fbcdn.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.4.96.0/22,no-resolve",
+        "129.134.0.0/17,no-resolve",
+        "157.240.0.0/17,no-resolve",
+        "173.252.64.0/18,no-resolve",
+        "179.60.192.0/22,no-resolve",
+        "185.60.216.0/22,no-resolve",
+        "204.15.20.0/22,no-resolve",
+        "31.13.24.0/21,no-resolve",
+        "31.13.64.0/18,no-resolve",
+        "45.64.40.0/22,no-resolve",
+        "66.220.144.0/20,no-resolve",
+        "69.171.224.0/19,no-resolve",
+        "69.63.176.0/20,no-resolve",
+        "74.119.76.0/22,no-resolve"
+      ]
+    }
+  ],
+  "version": 1
+}

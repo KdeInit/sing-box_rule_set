@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "fb.com",
+        "fb.me",
+        "fbcdn.net",
+        "instagr.am"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "facebook",
+        "fbcdn",
+        "instagram",
+        "whatsapp"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".fb.com",
+        ".fb.me",
+        ".fbcdn.net",
+        ".instagr.am"
+      ]
+    }
+  ],
+  "version": 1
+}

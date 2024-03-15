@@ -1,0 +1,78 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "foxmail.com",
+        "gtimg.com",
+        "idqqimg.com",
+        "igamecj.com",
+        "myapp.com",
+        "myqcloud.com",
+        "qlogo.cn",
+        "qpic.cn",
+        "qq.com",
+        "qqmail.com",
+        "qqurl.com",
+        "servicewechat.com",
+        "smtcdns.com",
+        "smtcdns.net",
+        "sogo.com",
+        "sogou.com",
+        "sogoucdn.com",
+        "soso.com",
+        "tencent-cloud.net",
+        "tencent.com",
+        "tencentmind.com",
+        "tenpay.com",
+        "ugcimg.cn",
+        "wechat.com",
+        "wechatlegal.net",
+        "wechatpay.com",
+        "weixin.com",
+        "weixinbridge.com",
+        "weixinsxy.com",
+        "weiyun.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "zhihu"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".foxmail.com",
+        ".gtimg.com",
+        ".idqqimg.com",
+        ".igamecj.com",
+        ".myapp.com",
+        ".myqcloud.com",
+        ".qlogo.cn",
+        ".qpic.cn",
+        ".qq.com",
+        ".qqmail.com",
+        ".qqurl.com",
+        ".servicewechat.com",
+        ".smtcdns.com",
+        ".smtcdns.net",
+        ".sogo.com",
+        ".sogou.com",
+        ".sogoucdn.com",
+        ".soso.com",
+        ".tencent-cloud.net",
+        ".tencent.com",
+        ".tencentmind.com",
+        ".tenpay.com",
+        ".ugcimg.cn",
+        ".wechat.com",
+        ".wechatlegal.net",
+        ".wechatpay.com",
+        ".weixin.com",
+        ".weixinbridge.com",
+        ".weixinsxy.com",
+        ".weiyun.com"
+      ]
+    }
+  ],
+  "version": 1
+}

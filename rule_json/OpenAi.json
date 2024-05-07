@@ -4,9 +4,11 @@
       "domain": [
         "auth0.com",
         "challenges.cloudflare.com",
+        "chatgpt.com",
         "client-api.arkoselabs.com",
         "events.statsigapi.net",
         "featuregates.org",
+        "gemini.google.com",
         "identrust.com",
         "intercom.io",
         "intercomcdn.com",
@@ -27,6 +29,7 @@
       "domain_suffix": [
         ".auth0.com",
         ".challenges.cloudflare.com",
+        ".chatgpt.com",
         ".client-api.arkoselabs.com",
         ".events.statsigapi.net",
         ".featuregates.org",
